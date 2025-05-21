@@ -42,7 +42,5 @@
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #999, transparent);"/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -37,9 +37,6 @@
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #999, transparent);"/>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShwethaSunkara1&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #999, transparent);"/>
 
 
 </div>

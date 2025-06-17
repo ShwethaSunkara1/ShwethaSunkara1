@@ -17,7 +17,7 @@
 
 
 ### 💫 About Me:
-🎓 Graduate Student at University of South Florida | Masters in Artificial Intelligence and Business Analytics  <br>💼 Data Enthusiast | 2+ Years of Professional Experience in the Data Domain  <br>📊 Passionate about transforming raw data into actionable insights through powerful dashboards, pipelines, and models.<br><br>
+🎓 Graduate Student at University of South Florida | Masters in Artificial Intelligence and Business Analytics  <br>💼 Data Enthusiast | 3+ Years of Professional Experience in the Data Domain  <br>📊 Passionate about transforming raw data into actionable insights through powerful dashboards, pipelines, and models.<br><br>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #999, transparent);"/>
 
